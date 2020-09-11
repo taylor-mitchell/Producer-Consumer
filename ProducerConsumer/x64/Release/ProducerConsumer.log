@@ -1,0 +1,15 @@
+﻿  TaylorMitchell_Lab2.cpp
+C:\development\Producer-Consumer\Producer-Consumer\TaylorMitchell_Lab2.cpp(311,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\development\Producer-Consumer\Producer-Consumer\TaylorMitchell_Lab2.cpp(463,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\development\Producer-Consumer\Producer-Consumer\TaylorMitchell_Lab2.cpp(468,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\development\Producer-Consumer\Producer-Consumer\TaylorMitchell_Lab2.cpp(538,97): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\development\Producer-Consumer\Producer-Consumer\TaylorMitchell_Lab2.cpp(538,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\development\Producer-Consumer\Producer-Consumer\TaylorMitchell_Lab2.cpp(538,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\development\Producer-Consumer\Producer-Consumer\TaylorMitchell_Lab2.cpp(538,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\development\Producer-Consumer\Producer-Consumer\TaylorMitchell_Lab2.cpp(584,32): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+C:\development\Producer-Consumer\Producer-Consumer\TaylorMitchell_Lab2.cpp(738,33): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 296 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ProducerConsumer.vcxproj -> C:\development\Producer-Consumer\Producer-Consumer\ProducerConsumer\x64\Release\ProducerConsumer.exe

@@ -1,0 +1,2 @@
+C:\development\Producer-Consumer\Producer-Consumer\ProducerConsumer\Debug\ProducerConsumer.exe
+C:\development\Producer-Consumer\Producer-Consumer\ProducerConsumer\Debug\ProducerConsumer.pdb
